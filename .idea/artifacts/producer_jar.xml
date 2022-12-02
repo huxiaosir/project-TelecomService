@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="producer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/producer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="producer.jar">
+        <element id="module-output" name="producer" />
+        <element id="module-output" name="common" />
+      </element>
+      <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.6" />
+    </root>
+  </artifact>
+</component>
